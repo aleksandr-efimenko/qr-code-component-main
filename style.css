@@ -43,7 +43,6 @@ p {
     color: hsl(220, 15%, 55%);
     margin: 1rem;
     line-height: 19px;
-    letter-spacing: 0.1875px;
 }
 
 .card-description {
